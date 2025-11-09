@@ -1,108 +1,110 @@
-<h1 align="center">Hi 👋, I'm Venkata Satya Alajangi</h1>
-<h3 align="center">A passionate AI/ML Researcher from India</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Venkata Satya Alajangi
 
-<p align="center">AI Student and Web Developer | Bridging ML & Backend for Real-World Solutions</p>
+### AI/ML Researcher & Full-Stack Developer
 
-<p align="center">
-  I am an enthusiastic AI student and developer with a strong passion for crafting practical web applications. My core interest lies in leveraging the power of machine learning and robust backend systems to address real-world challenges, translating innovative ideas into tangible, impactful solutions. I thrive on bringing a full-stack perspective to projects, ensuring seamless integration from data ingestion and model deployment to intuitive user interfaces.
-</p>
+*Bridging Machine Learning & Backend Engineering for Real-World Impact*
 
-- 💻 I’m currently working on **LLMs, Speech Processing, Natural Language Processing**  
-- 🌐 All of my projects are available at [https://github.com/VenkataSatya05](https://github.com/VenkataSatya05)  
-- ❓ Ask me about **React**  
-- 📧 How to reach me: **satyavenkata46@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alajangivenkatasatya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im_venkatasatya_05)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyavenkata46@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenkataSatya05)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/alajangivenkatasatya" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/im_venkatasatya_05" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+</div>
 
-<h3 align="left">🛠️ My Technology Stack:</h3>
-<p align="left">
-  <b>Languages:</b> JavaScript, Python, Java, C++ <br>
-  <b>Web:</b> React, Node.js, Express.js, HTML5, CSS3 <br>
-  <b>Databases:</b> MongoDB, Firebase, MySQL, PostgreSQL <br>
-  <b>Tools:</b> Git, GitHub, Azure <br>
-  <b>ML Frameworks:</b> TensorFlow, Keras, PyTorch <br>
-  <b>Other:</b> OpenCV, MATLAB, Flutter
-</p>
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<h3 align="left">🔍 My Interests:</h3>
-<p align="left">
-  - MERN-Stack Web Development <br>
-  - Machine Learning and Data Analysis <br>
-  - Natural Language Processing <br>
-  - Speech Processing <br>
-  - Large Language Models (LLMs)
-</p>
+## 🚀 About Me
 
-<h3 align="left">🚀 Things I Have Built:</h3>
-<p align="left">
-  - 🩺 <b>Brain Stroke Rehabilitation</b> (Flutter + Firebase + MongoDB) – A real-time health monitoring app with a clean UI <br>
-  - 🛍️ <b>VitaFresh</b> (Node.js + MongoDB) – A dynamic e-commerce platform with CRUD operations and cart system <br>
-  - 🤖 <b>IntelliGem</b> (React + MongoDB) – An AI-powered chat application
-</p>
+I'm an enthusiastic AI student and developer passionate about building practical web applications that solve real-world problems. My expertise lies in combining **machine learning** with **robust backend systems** to create seamless, full-stack solutions—from data ingestion and model deployment to intuitive user interfaces.
+
+- 🔬 Currently working on **LLMs, Speech Processing & Natural Language Processing**
+- 🌱 Exploring the intersection of AI and scalable web architectures
+- 💬 Ask me about **React, Node.js, Machine Learning, and Full-Stack Development**
+- 📫 Reach me at: **satyavenkata46@gmail.com**
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### ML/AI Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+---
+
+## 🔍 Research Interests
+
+- **MERN Stack Web Development** - Building scalable full-stack applications
+- **Machine Learning & Data Analysis** - Extracting insights from complex datasets
+- **Natural Language Processing** - Making machines understand human language
+- **Speech Processing** - Audio analysis and voice recognition systems
+- **Large Language Models (LLMs)** - Exploring the frontiers of generative AI
+
+---
+
+## 🎯 Featured Projects
+
+### 🩺 Brain Stroke Rehabilitation
+**Tech Stack:** Flutter · Firebase · MongoDB  
+A real-time health monitoring application designed for stroke recovery patients, featuring intuitive UI/UX and comprehensive health tracking capabilities.
+
+### 🛍️ VitaFresh
+**Tech Stack:** Node.js · Express · MongoDB  
+A dynamic e-commerce platform with complete CRUD operations, shopping cart system, and secure payment integration for fresh produce delivery.
+
+### 🤖 IntelliGem
+**Tech Stack:** React · MongoDB · AI/ML  
+An intelligent chat application powered by advanced AI models, providing context-aware conversations and personalized user experiences.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataSatya05&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataSatya05&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on innovative projects, discuss AI/ML research, or chat about full-stack development. Feel free to reach out!
+
+<div align="center">
+
+**"Building the future, one line of code at a time."** 💻✨
+
+</div>
