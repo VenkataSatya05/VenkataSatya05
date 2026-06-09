@@ -72,7 +72,7 @@ I'm an enthusiastic AI student and developer passionate about building practical
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataSatya05&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=VenkataSatya05&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api?username=VenkataSatya05))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataSatya05&layout=compact&theme=radical&hide_border=true)
 
