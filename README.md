@@ -6,7 +6,7 @@
 
 *Bridging Machine Learning & Backend Engineering for Real-World Impact*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alajangivenkatasatya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alajangivenkatasatya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyavenkata46@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenkataSatya05)
 
@@ -62,19 +62,33 @@ I'm an enthusiastic AI student and developer passionate about building practical
 
 ## 🔍 Research Interests
 
-- **MERN Stack Web Development** - Building scalable full-stack applications
-- **Machine Learning & Data Analysis** - Extracting insights from complex datasets
-- **Natural Language Processing** - Making machines understand human language
-- **Speech Processing** - Audio analysis and voice recognition systems
-- **Large Language Models (LLMs)** - Exploring the frontiers of generative AI
+- **MERN Stack Web Development** — Building scalable full-stack applications
+- **Machine Learning & Data Analysis** — Extracting insights from complex datasets
+- **Natural Language Processing** — Making machines understand human language
+- **Speech Processing** — Audio analysis and voice recognition systems
+- **Large Language Models (LLMs)** — Exploring the frontiers of generative AI
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=VenkataSatya05&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api?username=VenkataSatya05))
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataSatya05&layout=compact&theme=radical&hide_border=true)
+<!-- 
+  ⚠️ IMPORTANT: The shared github-readme-stats.vercel.app is often rate-limited.
+  
+  For reliable stats, deploy your own free instance:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy to Vercel (free) → https://vercel.com/new
+  3. Add a GitHub PAT as the PAT_1 secret in Vercel settings
+  4. Replace YOUR_VERCEL_URL below with your deployment URL
+-->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataSatya05&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataSatya05&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VenkataSatya05&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
