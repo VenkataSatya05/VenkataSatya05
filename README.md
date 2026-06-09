@@ -68,24 +68,6 @@ I'm an enthusiastic AI student and developer passionate about building practical
 - **Speech Processing** - Audio analysis and voice recognition systems
 - **Large Language Models (LLMs)** - Exploring the frontiers of generative AI
 
----
-
-## 🎯 Featured Projects
-
-### 🩺 Brain Stroke Rehabilitation
-**Tech Stack:** Flutter · Firebase · MongoDB  
-A real-time health monitoring application designed for stroke recovery patients, featuring intuitive UI/UX and comprehensive health tracking capabilities.
-
-### 🛍️ VitaFresh
-**Tech Stack:** Node.js · Express · MongoDB  
-A dynamic e-commerce platform with complete CRUD operations, shopping cart system, and secure payment integration for fresh produce delivery.
-
-### 🤖 IntelliGem
-**Tech Stack:** React · MongoDB · AI/ML  
-An intelligent chat application powered by advanced AI models, providing context-aware conversations and personalized user experiences.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
